@@ -60,8 +60,7 @@ Contáctame en: <a href="mailto:mauricioJroja@gmail.com">mauricioJroja@gmail.com
 
 ------
 
-Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025
+
 
 <!--
 **MauEme/MauEme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
