@@ -29,7 +29,7 @@ Contáctame en: <a href="mailto:mauricioJroja@gmail.com">mauricioJroja@gmail.com
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
-<p>Lenguajes</p>
+<h3>Lenguajes</h3>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -39,12 +39,12 @@ Contáctame en: <a href="mailto:mauricioJroja@gmail.com">mauricioJroja@gmail.com
   
 </span>  
 
-<h4>Bases de Datos</h4>
+<h3>Bases de Datos</h3>
 <span>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </span>  
 
-<h4>Tecnologías</h4>
+<h3>Tecnologías</h3>
 <span>
   <img src= "https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
 </span>  
