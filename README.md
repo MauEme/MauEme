@@ -47,6 +47,8 @@ Contáctame en: <a href="mailto:mauricioJroja@gmail.com">mauricioJroja@gmail.com
 <h3>Tecnologías</h3>
 <span>
   <img src= "https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </span>  
 
 <h4>Redes y Contacto</h4>
